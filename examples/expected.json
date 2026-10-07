@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "name": "a",
+      "failure_rate": 0.2
+    },
+    {
+      "name": "b",
+      "failure_rate": 0.0
+    }
+  ]
+}

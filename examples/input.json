@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "a",
+      "failures": 2,
+      "runs": 10
+    },
+    {
+      "name": "b",
+      "failures": 0,
+      "runs": 5
+    }
+  ]
+}
